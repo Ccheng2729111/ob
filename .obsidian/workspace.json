@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfb12576389b0286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "read/process相关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "read/process相关.md",
+                "file": "tel/ni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "read/process相关.md"
+                "file": "tel/ni.md"
               }
             }
           },
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read/process相关.md",
+                "file": "tel/ni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfb12576389b0286",
+  "active": "0aee3a66fa99d3c3",
   "lastOpenFiles": [
-    "tel/ni.md",
     "read/process相关.md",
+    "tel/ni.md",
     "未命名.canvas",
     "tel/vue3快速拿到子组件state.md",
     "tel",

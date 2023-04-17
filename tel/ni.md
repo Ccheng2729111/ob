@@ -2,7 +2,7 @@
 
 
 ### 原理
-在运行的时候会检测你的==yarn.lock pnpm-lock.yaml package-lock.json== 以了解当前的包管理器，并运行相应的命令。
+在运行的时候会检测你的`yarn.lock pnpm-lock.yaml package-lock.json` 以了解当前的包管理器，并运行相应的命令。
 这里就就要说一下[[yarn]] [[pnpm]] [[npm]] [[npx]] 
 也就是说它会根据你当前项目内的lock文件来判断应该运行哪个命令，这样就可以避免在一个项目内使用不同的包管理的命令导致依赖混乱
 如果没有锁文件，默认就会让用户选择 [[npm]] [[yarn]] [[pnpm]]. 然后执行相应的命令。这里可以在`~/.nirc
