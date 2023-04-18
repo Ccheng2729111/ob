@@ -11,8 +11,12 @@
             "id": "af6f9294a45921e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tel/process.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tel/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tel/process.md"
+              }
             }
           },
           {
@@ -111,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tel/process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,31 +151,31 @@
   "active": "af6f9294a45921e7",
   "lastOpenFiles": [
     "tel/process.md",
-    "node中流的概念.md",
-    "createReadStream.md",
+    "tel/ni.md",
+    "tel/nestjs.md",
+    "tel/createReadStream.md",
+    "tel/node中流的概念.md",
+    "tel/npx yarn pnpm npx的区别.md",
+    "tel/v-if v-show.md",
     "tel/vue3快速拿到子组件state.md",
     "tel/yarn.md",
+    "tel/hooks.md",
+    "tel/class-validator.md",
+    "tel/对应hooks的思考.md",
+    "tel/类型别名和接口的区别.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "read/这是一个git.md",
     "read/process相关.md",
     "hypo/格式化你的笔记 - Obsidian 中文帮助 - Obsidian Publish.md",
     "hypo/尤雨溪推荐神器 ni ，能替代 npmyarnpnpm ？简单好用！源码揭秘！ - 掘金.md",
     "hypo",
-    "tel/ni.md",
     "未命名.canvas",
     "tel",
     "read",
-    "tel/v-if v-show.md",
     "tel/typescript 练习.md",
-    "tel/npx yarn pnpm npx的区别.md",
     "tel/react-native/react-native打包原理，分包实践.md",
     "tel/react-native/rn，配置，环境，初始化的坑.md",
-    "tel/nestjs.md",
-    "tel/hooks.md",
-    "tel/class-validator.md",
-    "tel/类型别名和接口的区别.md",
     "tel/react.md",
-    "tel/对应hooks的思考.md",
     "tel/react-native/react-native.md",
     "tel/react-native",
     "技术文档",
