@@ -14,3 +14,5 @@ stram.on('data',(chunk)=>{
 `createReadStream` 函数还支持一些可选参数，例如 `start` 和 `end`，用于指定读取文件的起始和结束位置。另外还可以指定 `highWaterMark` 参数，用于控制读取数据的缓冲区大小。
 
 同样的createWirteStream是一样的概念，创建一个写文件的的对象，返回一个写取的流，并且可以进行后续流的操作。
+
+同时这里需要说一下流的话需要注意如果需要通过createReadStream拿到的文件内容进行打印到控制台的话需要使node的[[pipe]]方法将steam对象中读取到的数据流传递给process.stdout，从而读取到数据输出到控制台。

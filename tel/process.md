@@ -21,3 +21,5 @@ fs.createReadStream('wow.txt')
 ```
 上面的[[createReadStream]] 表示讲一个文件导向标准输出 也可以说一下[[node中流的概念]]
 上面的代码中，由于process.stdout和process.stdin与其他进程的通信，都是流的形式，所以必须通过pipe管道命令中介
+### process.stdin
+返回一个对象，表示标准化输入。
