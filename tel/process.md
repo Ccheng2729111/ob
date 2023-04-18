@@ -13,3 +13,11 @@ process对象用户提供一系列的属性，用于返回系统信息。
 - process.platform 返回当前的操作环境
 ### process.stdout
 process.stdout 属性返回一个对象，表示标准输出。该对象的write方法等同于console.log，可以标准输出用户的显示内容
+```
+var fs = require('fs');
+
+fs.createReadStream('wow.txt')
+  .pipe(process.stdout);
+```
+上面的[[createReadStream]] 表示讲一个文件导向标准输出
+上面的代码中，由于process.stdout和process.stdin与其他进程的通信，都是流的形式，所以必须通过pipe管道命令中介
