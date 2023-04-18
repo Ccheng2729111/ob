@@ -53,3 +53,9 @@ process.stdin.pipe(process.stdout)
 -   `process.on()`：监听事件。
 -   `process.setgid()`：指定当前进程的组，可以使用数字ID，也可以使用字符串ID。
 -   `process.setuid()`：指定当前进程的用户，可以使用数字ID，也可以使用字符串ID。
+
+process.cwd()和__dirname是有可能不一样的，如果当前是node的绝对路径 那么返回的是当前你运行命令的绝对地址，但是__dirname是你运行的文件的绝对路径
+
+process.exit方法接受的参数如果大于0 表示执行失败，如果是0表示执行成功
+
+process.on跟web端的
