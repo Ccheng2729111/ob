@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/process.md",
+                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c076351eda65c174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read/这是一个git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/process.md",
+                "file": "read/这是一个git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/process.md"
+                "file": "read/这是一个git.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/process.md",
+                "file": "read/这是一个git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +161,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "3a3276c3a66bcd22",
+  "active": "c076351eda65c174",
   "lastOpenFiles": [
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+    "read/这是一个git.md",
     "tel/process.md",
     "read/process相关.md",
     "hypo/格式化你的笔记 - Obsidian 中文帮助 - Obsidian Publish.md",
