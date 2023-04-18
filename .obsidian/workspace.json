@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f77524e9c9587d10",
+        "id": "164c678a225635af",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3276c3a66bcd22",
+            "id": "af6f9294a45921e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8cf084f0861cf44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node中流的概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "867e3c220c9d711a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/process.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tel/process.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,13 +140,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "867e3c220c9d711a",
+  "active": "af6f9294a45921e7",
   "lastOpenFiles": [
+    "tel/process.md",
+    "node中流的概念.md",
     "createReadStream.md",
     "tel/vue3快速拿到子组件state.md",
     "tel/yarn.md",
-    "node中流的概念.md",
-    "tel/process.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "read/这是一个git.md",
     "read/process相关.md",

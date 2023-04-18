@@ -58,4 +58,4 @@ process.cwd()和__dirname是有可能不一样的，如果当前是node的绝对
 
 process.exit方法接受的参数如果大于0 表示执行失败，如果是0表示执行成功
 
-process.on跟web端的
+process.on跟web端的window.addEventListen是一样的意思，监听某一个事件，然后运行回调即可。
