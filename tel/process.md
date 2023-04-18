@@ -22,4 +22,18 @@ fs.createReadStream('wow.txt')
 上面的[[createReadStream]] 表示讲一个文件导向标准输出 也可以说一下[[node中流的概念]]
 上面的代码中，由于process.stdout和process.stdin与其他进程的通信，都是流的形式，所以必须通过pipe管道命令中介
 ### process.stdin
-返回一个对象，表示标准化输入。
+返回一个对象，表示标准化输入。 
+
+```javascipt
+process.stdin.pipe(process.stdout)
+```
+上面的代码表示读取用户标准化输入后再进行标准化输出
+
+### process.stderr
+表示标准化错误
+
+### process.argv
+
+属性返回一个数组，第一个总是node的绝对路径也，第二个是执行node命令的脚本的绝对路径，后面就是各个参数来进行组成
+
+所以如果要获取命令的参数，直接用process.argv.slice(2)即可获取。
