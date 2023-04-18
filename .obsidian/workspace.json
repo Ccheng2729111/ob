@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+                "file": "tel/process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tel/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tel/process.md"
+              }
             }
           },
           {
@@ -115,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tel/process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,11 +148,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "d01b1421ab66c039",
+  "active": "3a3276c3a66bcd22",
   "lastOpenFiles": [
+    "tel/process.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "read/这是一个git.md",
-    "tel/process.md",
     "read/process相关.md",
     "hypo/格式化你的笔记 - Obsidian 中文帮助 - Obsidian Publish.md",
     "hypo/尤雨溪推荐神器 ni ，能替代 npmyarnpnpm ？简单好用！源码揭秘！ - 掘金.md",

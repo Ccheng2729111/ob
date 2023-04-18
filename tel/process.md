@@ -10,3 +10,6 @@ process对象用户提供一系列的属性，用于返回系统信息。
 - process.pid：返回房钱进程的进程号
 - process.title 返回一个字符串，默认为node，可以自定义
 - process.version 返回当前node版本
+- process.platform 返回当前的操作环境
+### process.stdout
+process.stdout 属性返回一个对象，表示标准输出。该对象的write方法等同于console.log，可以标准输出用户的显示内容
