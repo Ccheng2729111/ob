@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1963b1575dd57832",
+        "id": "f77524e9c9587d10",
         "type": "tabs",
         "children": [
           {
-            "id": "0aee3a66fa99d3c3",
+            "id": "3a3276c3a66bcd22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/ni.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/ni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tel/ni.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/ni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,13 +136,53 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "d01b1421ab66c039",
+  "floating": {
+    "id": "0b09b54b59cb4033",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a538c4764f9972dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "8a67c67bee0be5a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0aee3a66fa99d3c3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypo/尤雨溪推荐神器 ni ，能替代 npmyarnpnpm ？简单好用！源码揭秘！ - 掘金.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 563,
+        "y": 1105,
+        "width": 1154,
+        "height": 799,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3a3276c3a66bcd22",
   "lastOpenFiles": [
-    "未命名",
+    "hypo/尤雨溪推荐神器 ni ，能替代 npmyarnpnpm ？简单好用！源码揭秘！ - 掘金.md",
+    "hypo/格式化你的笔记 - Obsidian 中文帮助 - Obsidian Publish.md",
     "read/process相关.md",
+    "hypo",
     "tel/ni.md",
     "未命名.canvas",
     "tel/vue3快速拿到子组件state.md",
