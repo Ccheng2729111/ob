@@ -37,3 +37,19 @@ process.stdin.pipe(process.stdout)
 属性返回一个数组，第一个总是node的绝对路径也，第二个是执行node命令的脚本的绝对路径，后面就是各个参数来进行组成
 
 所以如果要获取命令的参数，直接用process.argv.slice(2)即可获取。
+
+### process.execArgv
+
+获取node可执行文件与脚本文件之间的命令的参数
+
+## 方法
+
+-   `process.chdir()`：切换工作目录到指定目录。
+-   `process.cwd()`：返回运行当前脚本的工作目录的路径。
+-   `process.exit()`：退出当前进程。
+-   `process.getgid()`：返回当前进程的组ID（数值）。
+-   `process.getuid()`：返回当前进程的用户ID（数值）。
+-   `process.nextTick()`：指定回调函数在当前执行栈的尾部、下一次Event Loop之前执行。
+-   `process.on()`：监听事件。
+-   `process.setgid()`：指定当前进程的组，可以使用数字ID，也可以使用字符串ID。
+-   `process.setuid()`：指定当前进程的用户，可以使用数字ID，也可以使用字符串ID。
