@@ -1,4 +1,4 @@
-#node #Permanent #pendding 
+#node #Permanent #done
 
 其实不算难，就是用node得环境对文件进行操作，比如文件的压缩，创建，读取，获取命令参数等等内容，其中有几个知识点[[process]] [[createReadStream]] 等等
 

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "164c678a225635af",
+        "id": "ccc5e56e65324a42",
         "type": "tabs",
         "children": [
           {
-            "id": "af6f9294a45921e7",
+            "id": "9ccdf0b864d50951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/yarn.md",
+                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "90597aba1350007d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fleeting",
+                "query": "tag:#pendding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md"
+              }
             }
           },
           {
@@ -125,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,13 +148,16 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "818087bfeb2c8f71",
+  "active": "9ccdf0b864d50951",
   "lastOpenFiles": [
-    "tel/preBuild脚本.md",
     "tel/yarn.md",
-    "tel/process.md",
+    "tel/typescript 练习.md",
+    "tel/react.md",
+    "tel/preBuild脚本.md",
     "tel/ni.md",
     "tel/nestjs.md",
+    "tel/对应hooks的思考.md",
+    "tel/process.md",
     "tel/createReadStream.md",
     "tel/node中流的概念.md",
     "tel/npx yarn pnpm npx的区别.md",
@@ -168,7 +165,6 @@
     "tel/vue3快速拿到子组件state.md",
     "tel/hooks.md",
     "tel/class-validator.md",
-    "tel/对应hooks的思考.md",
     "tel/类型别名和接口的区别.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "read/这是一个git.md",
@@ -179,10 +175,8 @@
     "未命名.canvas",
     "tel",
     "read",
-    "tel/typescript 练习.md",
     "tel/react-native打包原理，分包实践.md",
     "tel/rn，配置，环境，初始化的坑.md",
-    "tel/react.md",
     "tel/react-native.md",
     "tel/react-native",
     "技术文档",
