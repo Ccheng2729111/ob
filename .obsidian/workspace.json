@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+                "file": "tel/preBuild脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+                "file": "tel/preBuild脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md"
+                "file": "tel/preBuild脚本.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+                "file": "tel/preBuild脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,7 @@
   },
   "active": "9ccdf0b864d50951",
   "lastOpenFiles": [
+    "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/yarn.md",
     "tel/typescript 练习.md",
     "tel/react.md",
@@ -166,7 +167,6 @@
     "tel/hooks.md",
     "tel/class-validator.md",
     "tel/类型别名和接口的区别.md",
-    "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "read/这是一个git.md",
     "read/process相关.md",
     "hypo/格式化你的笔记 - Obsidian 中文帮助 - Obsidian Publish.md",
