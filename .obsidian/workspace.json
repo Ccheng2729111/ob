@@ -23,12 +23,8 @@
             "id": "90597aba1350007d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/preBuild脚本.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fleeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/preBuild脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tel/preBuild脚本.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/preBuild脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,10 +154,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "90597aba1350007d",
+  "active": "818087bfeb2c8f71",
   "lastOpenFiles": [
-    "tel/yarn.md",
     "tel/preBuild脚本.md",
+    "tel/yarn.md",
     "tel/process.md",
     "tel/ni.md",
     "tel/nestjs.md",
