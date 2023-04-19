@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preBuild脚本.md",
+                "file": "tel/preBuild脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "preBuild脚本.md",
+                "file": "tel/preBuild脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "preBuild脚本.md"
+                "file": "tel/preBuild脚本.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preBuild脚本.md",
+                "file": "tel/preBuild脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
   "active": "90597aba1350007d",
   "lastOpenFiles": [
     "tel/yarn.md",
-    "preBuild脚本.md",
+    "tel/preBuild脚本.md",
     "tel/process.md",
     "tel/ni.md",
     "tel/nestjs.md",
