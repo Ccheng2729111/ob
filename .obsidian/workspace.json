@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pendding",
+                "query": "process.cwd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,15 +150,15 @@
   },
   "active": "9ccdf0b864d50951",
   "lastOpenFiles": [
+    "tel/process.md",
+    "tel/preBuild脚本.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/yarn.md",
     "tel/typescript 练习.md",
     "tel/react.md",
-    "tel/preBuild脚本.md",
     "tel/ni.md",
     "tel/nestjs.md",
     "tel/对应hooks的思考.md",
-    "tel/process.md",
     "tel/createReadStream.md",
     "tel/node中流的概念.md",
     "tel/npx yarn pnpm npx的区别.md",
