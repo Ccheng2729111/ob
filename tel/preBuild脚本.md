@@ -27,6 +27,7 @@ const writeStream = process.createWriteStream(path)
 2. fs 操作文件
 3. archiver 压缩文件
 4. crypto 获取文件的md5编码 
+5. rimraf 递归删除文件以及文件夹
 
 经验
 - 在写脚本的时候如果对node的一些i/o的API了解比较熟悉的话 写起来应该比较顺畅
