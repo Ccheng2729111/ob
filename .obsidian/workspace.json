@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/preBuild脚本.md",
+                "file": "tel/yarn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/preBuild脚本.md",
+                "file": "tel/yarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/preBuild脚本.md"
+                "file": "tel/yarn.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/preBuild脚本.md",
+                "file": "tel/yarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,12 +150,16 @@
   },
   "active": "9ccdf0b864d50951",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230421142729.png",
+    "Pasted image 20230421142527.png",
+    "Pics",
+    "Pasted image 20230421142439.png",
+    "tel/preBuild脚本.md",
     "tel/process.md",
     "tel/typescript 练习.md",
     "tel/class-validator.md",
     "tel/类型别名和接口的区别.md",
     "tel/对应hooks的思考.md",
-    "tel/preBuild脚本.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/yarn.md",
     "tel/react.md",
@@ -181,7 +185,6 @@
     "tel/react-native",
     "技术文档",
     "2023-04-17.md",
-    "vue.md",
     "知识花园.canvas"
   ]
 }
