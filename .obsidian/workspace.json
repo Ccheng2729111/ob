@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "212141e90038133e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tel/chrome插件开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/yarn.md",
+                "file": "tel/chrome插件开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/yarn.md"
+                "file": "tel/chrome插件开发.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/yarn.md",
+                "file": "tel/chrome插件开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +161,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9ccdf0b864d50951",
+  "active": "212141e90038133e",
   "lastOpenFiles": [
+    "tel/yarn.md",
+    "tel/chrome插件开发.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
@@ -161,7 +176,6 @@
     "tel/类型别名和接口的区别.md",
     "tel/对应hooks的思考.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
-    "tel/yarn.md",
     "tel/react.md",
     "tel/ni.md",
     "tel/nestjs.md",
