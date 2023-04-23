@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/process.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/chrome插件开发.md"
+                "file": "tel/process.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,12 +143,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +160,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "212141e90038133e",
+  "active": "59e79feb3b1e1fd3",
   "lastOpenFiles": [
-    "tel/yarn.md",
+    "tel/类型别名和接口的区别.md",
     "tel/chrome插件开发.md",
+    "tel/yarn.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
@@ -173,7 +173,6 @@
     "tel/process.md",
     "tel/typescript 练习.md",
     "tel/class-validator.md",
-    "tel/类型别名和接口的区别.md",
     "tel/对应hooks的思考.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/react.md",
