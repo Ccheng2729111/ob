@@ -13,3 +13,10 @@ chrome.storage.sync.get(data,callback)
 
 开发插件的话不在乎用的是什么framework，无论用react，vue还是什么，只要有html就可以当做chrome的插件去开发。
 background这个API可以方便我们在后台静默的去干一些事情，比如爬虫爬数据，比如请求数据，在开新的tab的时候去从storage里面获取新的数据即可。
+如果是使用react或者vue开发chrome的插件的话，需要注意的是几个点
+- chrome本身这个api在framework的dev环境是没有的，可以考虑安装@type/chrome的类型定义，帮助我们在开发环境去使用代码提示
+- chrome本身是没有的，我们可以使用window.chrome去规避eslint的提示，或者在.eslintrc文件里面定义一下全局变量chrome
+- 像bckaground这样的文件是纯js，只有在扩展里面才会启用，可以写在public里面，每次调试需要打包后使用
+- 如果要使用es6的语法的话 需要注意你的manifest.json的version是几，如果是3的话没问题 不用做额外的处理，如果是2的话需要对语法进行转换，转换成es5甚至更低，去兼容低版本的浏览器。
+- background这个，是存在休眠期的，如果需要唤醒可以使用特定的api，alarm，在长轮询的时间去做特定的事情，比如拉去新的数据或者爬取某个网站的数据进行展示
+- 使用framework进行开发好处我觉得是可以使用现代化的开发方式去开发chrome插件，代码结果，代码风格，使用习惯，三方依赖等问题可以很好的解决
