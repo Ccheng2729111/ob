@@ -10,3 +10,5 @@ chrome.runtime.onInstalled.addListener(callback)
 chrome.storage.sync.set(data,callback)
 chrome.storage.sync.get(data,callback)
 ```
+
+开发插件的话不在乎用的是什么framework，无论用react，vue还是什么，只要有html就可以当做chrome的插件去开发。
