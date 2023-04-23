@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc5e56e65324a42",
+        "id": "539a8bf86b4c3d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "9ccdf0b864d50951",
+            "id": "dc61d6b6b8825a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/yarn.md",
+                "file": "tel/chrome插件开发.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "212141e90038133e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "0b27d51e265b5ad8"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ce121befbdbfca03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8cf5052263ad73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tel/chrome插件开发.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "0b27d51e265b5ad8"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "process.cwd",
+                "query": "tag:#node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/process.md",
+                "file": "tel/chrome插件开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/process.md"
+                "file": "tel/chrome插件开发.md"
               }
             }
           },
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/process.md",
+                "file": "tel/chrome插件开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +150,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,26 +168,26 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "59e79feb3b1e1fd3",
+  "active": "dc61d6b6b8825a96",
   "lastOpenFiles": [
-    "tel/类型别名和接口的区别.md",
-    "tel/chrome插件开发.md",
+    "tel/process.md",
+    "tel/node中流的概念.md",
+    "tel/ni.md",
     "tel/yarn.md",
+    "tel/createReadStream.md",
+    "tel/class-validator.md",
+    "tel/chrome插件开发.md",
+    "tel/类型别名和接口的区别.md",
+    "tel/对应hooks的思考.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
     "Pasted image 20230421142439.png",
     "tel/preBuild脚本.md",
-    "tel/process.md",
     "tel/typescript 练习.md",
-    "tel/class-validator.md",
-    "tel/对应hooks的思考.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/react.md",
-    "tel/ni.md",
     "tel/nestjs.md",
-    "tel/createReadStream.md",
-    "tel/node中流的概念.md",
     "tel/npx yarn pnpm npx的区别.md",
     "tel/v-if v-show.md",
     "tel/vue3快速拿到子组件state.md",
