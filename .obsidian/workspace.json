@@ -30,34 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9289991f719d56ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript utility types.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "06817e81662a6cd8"
-          },
-          {
-            "id": "dd75696fc3cc5e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript重学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d5cfd9e05cb95e34",
@@ -73,8 +48,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "06817e81662a6cd8"
+            }
           }
         ]
       }
@@ -142,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript utility types.md",
+                "file": "nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript utility types.md"
+                "file": "nacos.md"
               }
             }
           },
@@ -175,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript utility types.md",
+                "file": "nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +179,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "718f5cdc0a70b392",
+  "active": "386f46a65afa1c40",
   "lastOpenFiles": [
-    "typescript重学.md",
     "typescript utility types.md",
+    "typescript重学.md",
     "typescript teach talk.md",
     "hypo/Utility Types · TypeScript.md",
     "nacos.md",
