@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/preBuild脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/preBuild脚本.md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "wr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/preBuild脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tel/chrome插件开发.md"
+                "file": "tel/preBuild脚本.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tel/chrome插件开发.md",
+                "file": "tel/preBuild脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,19 +172,19 @@
   "active": "dc61d6b6b8825a96",
   "lastOpenFiles": [
     "tel/process.md",
+    "tel/preBuild脚本.md",
+    "tel/chrome插件开发.md",
     "tel/node中流的概念.md",
     "tel/ni.md",
     "tel/yarn.md",
     "tel/createReadStream.md",
     "tel/class-validator.md",
-    "tel/chrome插件开发.md",
     "tel/类型别名和接口的区别.md",
     "tel/对应hooks的思考.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
     "Pasted image 20230421142439.png",
-    "tel/preBuild脚本.md",
     "tel/typescript 练习.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/react.md",
