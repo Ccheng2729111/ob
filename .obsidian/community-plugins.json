@@ -1,5 +1,8 @@
 [
   "various-complements",
   "obsidian-git",
-  "obsidian-hypothesis-plugin"
+  "obsidian-hypothesis-plugin",
+  "markdown-prettifier",
+  "oz-image-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]

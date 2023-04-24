@@ -54,17 +54,17 @@
                 "source": false
               }
             },
-            "group": "19a5398be8820935"
+            "group": "7f0e99e104e1fa81"
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "96eb0a57ed4a0215",
+        "id": "ac893c42fcd69e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "194843ad7551449e",
+            "id": "1c5feb3c33aacc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,7 @@
                 "source": false
               }
             },
-            "group": "19a5398be8820935"
+            "group": "7f0e99e104e1fa81"
           }
         ]
       }
@@ -205,14 +205,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dd75696fc3cc5e98",
+  "active": "1c5feb3c33aacc3f",
   "lastOpenFiles": [
+    "typescript重学.md",
+    "typescript utility types.md",
     "hypo/Utility Types · TypeScript.md",
     "typescript teach talk.md",
     "nacos.md",
-    "typescript重学.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
-    "typescript utility types.md",
     "tel/typescript 练习.md",
     "tel/preBuild脚本.md",
     "tel/process.md",
