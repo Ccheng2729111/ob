@@ -114,7 +114,7 @@ bread:string
 ```
 
 ### Exclude UnionType ExcludeMembers
-从元祖类型中去除掉相应的子成员并且返回一个新的类型
+从联合类型中去除掉相应的子成员并且返回一个新的类型
 ```js
 type T0 = Exclude<"a" | "b" | "c", "a">;
 
@@ -130,7 +130,7 @@ type T2 = string | number
 ```
 
 ### Extract Type Union
-从两个元祖类型中取出交集的元祖类型并且返回一个新的类型
+从两个联合类型中取出交集的元祖类型并且返回一个新的类型
 ```js
 type T0 = Extract<"a" | "b" | "c", "a" | "f">;
 
@@ -153,4 +153,70 @@ type T1 = NonNullable<string[] | null | undefined>;
 type T1 = string[]
 ```
 
-### ParameTers 
+### Parameters type
+从函数中获取传入的参数的元祖类型并且返回这个元祖类型
+```js
+declare function f1(arg: { a: number; b: string }): void;
+
+type T0 = Parameters<() => string>;
+
+type T0 = []
+
+type T1 = Parameters<(s: string) => void>;
+
+type T1 = [s: string]
+
+type T2 = Parameters<<T>(arg: T) => T>;
+
+type T2 = [arg: unknown]
+
+type T3 = Parameters<typeof f1>;
+
+type T3 = [arg: { a: number; b: string; }]
+```
+
+### ConstructorParameters Type
+获取函数的构造函数的参数的元祖类型并且返回这个元祖类型
+```js
+type T0 = ConstructorParameters<ErrorConstructor>;
+
+type T0 = [message?: string]
+
+type T1 = ConstructorParameters<FunctionConstructor>;
+
+type T1 = string[]
+
+type T2 = ConstructorParameters<RegExpConstructor>;
+
+type T2 = [pattern: string | RegExp, flags?: string]
+
+type T3 = ConstructorParameters<any>;
+
+type T3 = unknown[]
+```
+
+### ReturnType Type
+获取函数的返回数据的类型并且返回这个类型
+```js
+declare function f1(): { a: number; b: string };
+
+type T0 = ReturnType<() => string>;
+
+type T0 = string
+
+type T1 = ReturnType<(s: string) => void>;
+
+type T1 = void
+
+type T2 = ReturnType<<T>() => T>;
+
+type T2 = unknown
+
+type T3 = ReturnType<<T extends U, U extends number[]>() => T>;
+
+type T3 = number[]
+
+type T4 = ReturnType<typeof f1>;
+
+type T4 = { a: number; b: string; }
+```
