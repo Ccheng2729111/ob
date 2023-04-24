@@ -1,14 +1,13 @@
 ---
-date created: 2023-04-24 14:52
-date updated: 2023-04-24 14:52
+date created: 2023-04-24 15:04
 ---
 
-### Awaited<Type>
-
+### Awaited Type
 对promise的方法类型操作，对async的function进行await调用，返回promise的.then()。着重需要说的是 它会递归的去执行promise并且获取其返回
 
 ```js
-const a = {
-name
-}
+type A = Awaited<Promise<string>>
+// string
+type B = Awaited<Promise<Promise<number>>>
+// number
 ```

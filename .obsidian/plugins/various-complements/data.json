@@ -166,6 +166,22 @@
           "lastUpdated": 1682317547945
         }
       }
+    },
+    "它会递归的去执行promise并且获取其返回": {
+      "它会递归的去执行promise并且获取其返回": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682319612117
+        }
+      }
+    },
+    "Awaited": {
+      "Awaited": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682319885035
+        }
+      }
     }
   }
 }
