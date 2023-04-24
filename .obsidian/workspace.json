@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nacos.md",
+                "file": "tel/typescript 练习.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nacos.md",
+                "file": "tel/typescript 练习.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nacos.md",
+                "file": "tel/typescript 练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nacos.md"
+                "file": "tel/typescript 练习.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nacos.md",
+                "file": "tel/typescript 练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +181,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "f1699fbaebd343bf",
+  "active": "d01b1421ab66c039",
   "lastOpenFiles": [
-    "tel/preBuild脚本.md",
     "nacos.md",
+    "tel/preBuild脚本.md",
     "tel/process.md",
     "tel/chrome插件开发.md",
     "tel/node中流的概念.md",
