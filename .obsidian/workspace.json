@@ -41,7 +41,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "06817e81662a6cd8"
           },
           {
             "id": "dd75696fc3cc5e98",
@@ -57,6 +58,25 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d5cfd9e05cb95e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718f5cdc0a70b392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript utility types.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "06817e81662a6cd8"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +205,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9289991f719d56ea",
+  "active": "718f5cdc0a70b392",
   "lastOpenFiles": [
     "typescript重学.md",
     "typescript utility types.md",
