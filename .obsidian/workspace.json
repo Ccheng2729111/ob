@@ -41,7 +41,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "46365b3f3eae64d2"
           },
           {
             "id": "47661156c00520eb",
@@ -53,28 +54,27 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "96967af3fd190046"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "a375c082e35ea16e",
+        "id": "265c96404d7ae3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "2785a7a00d9fddbc",
+            "id": "e8a73459dcd9c6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript teach talk.md",
+                "file": "typescript重学.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "96967af3fd190046"
+            "group": "46365b3f3eae64d2"
           }
         ]
       }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript teach talk.md",
+                "file": "typescript重学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript teach talk.md"
+                "file": "typescript重学.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript teach talk.md",
+                "file": "typescript重学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +205,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "2785a7a00d9fddbc",
+  "active": "e8a73459dcd9c6a2",
   "lastOpenFiles": [
-    "typescript重学.md",
     "typescript teach talk.md",
+    "typescript重学.md",
     "nacos.md",
     "tel/typescript 练习.md",
     "tel/preBuild脚本.md",

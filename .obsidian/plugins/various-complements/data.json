@@ -150,6 +150,22 @@
           "lastUpdated": 1682239324188
         }
       }
+    },
+    "never": {
+      "never": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682317280200
+        }
+      }
+    },
+    "keyof": {
+      "keyof": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682317547945
+        }
+      }
     }
   }
 }
