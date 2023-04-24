@@ -82,6 +82,75 @@ type CatName = 'A' | 'B' | 'C'
 
 Record <CatName,CatInfo> = {
 A:{age:number,breed:string}
-...
 }
 ```
+
+### Pick Type Keys
+创建一个新的类型 从第一个type中获取key对应是keys的子集的对象的数据
+```js
+interface  CatInfo {
+	age:number 
+	breed:string 
+}
+
+type CatName = 'age'
+
+Pick <CatName,CatInfo> = {
+age:number
+```
+
+### omit Type Keys
+创建一个新的类型，从第一个type中去除掉key是第二个类型的子集的对象的类型
+```js
+interface  CatInfo {
+	age:number 
+	breed:string 
+}
+
+type CatName = 'age'
+
+Omit <CatName,CatInfo> = {
+bread:string
+```
+
+### Exclude UnionType ExcludeMembers
+从元祖类型中去除掉相应的子成员并且返回一个新的类型
+```js
+type T0 = Exclude<"a" | "b" | "c", "a">;
+
+type T0 = "b" | "c"
+
+type T1 = Exclude<"a" | "b" | "c", "a" | "b">;
+
+type T1 = "c"
+
+type T2 = Exclude<string | number | (() => void), Function>;
+
+type T2 = string | number
+```
+
+### Extract Type Union
+从两个元祖类型中取出交集的元祖类型并且返回一个新的类型
+```js
+type T0 = Extract<"a" | "b" | "c", "a" | "f">;
+
+type T0 = "a"
+
+type T1 = Extract<string | number | (() => void), Function>;
+
+type T1 = () => void
+```
+
+### NonNullable Type
+从传入的类型中去除掉null或者undefined类型并且返回一个新的类型
+```js
+type T0 = NonNullable<string | number | undefined>;
+
+type T0 = string | number
+
+type T1 = NonNullable<string[] | null | undefined>;
+
+type T1 = string[]
+```
+
+### ParameTers 
