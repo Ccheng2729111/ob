@@ -32,3 +32,6 @@ pnpm --filter @xx/monorepo1 build
 // 模块之间的相互依赖
 pnpm install @xx/monorepo2 -r -filter @xx/monorepo1 
 ```
+
+### 文档思考
+pnpm 相比于yarn有天然的workspace的优势，因为本身就会在
