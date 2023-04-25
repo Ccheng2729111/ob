@@ -238,6 +238,14 @@
           "lastUpdated": 1682406161854
         }
       }
+    },
+    "pnpm-store": {
+      "pnpm-store": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682413276011
+        }
+      }
     }
   }
 }

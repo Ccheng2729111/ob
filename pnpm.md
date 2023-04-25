@@ -34,4 +34,4 @@ pnpm install @xx/monorepo2 -r -filter @xx/monorepo1
 ```
 
 ### 文档思考
-pnpm 相比于yarn有天然的workspace的优势，因为本身就会在
+pnpm 相比于yarn有天然的workspace的优势，因为本身就会在全局的目录下创建.pnpm-store 文件夹并且在里面添加公共依赖，如果判断当前运行的目录下有workspace的文件就直接在当前文件的根目录下创建.pnpm-store 文件夹去管理公共依赖，而这恰好是work space的需求。
