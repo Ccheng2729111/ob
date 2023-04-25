@@ -16,5 +16,19 @@
 首先要启用workspace的话需要根目录下有`pnpm-workspace.yaml`配置文件，并且需要在其中指定工作空间的目录。比如
 ```yaml
 packages:
-	-
+	- 'packages/*'
+```
+
+其他的一些关于workspace的相关命令
+```
+// 安装全局的公共依赖
+pnpm install react - w
+// 安装全局的公共开发依赖
+pnpm install rollup -wD
+// 给某个package单独安装指定依赖
+pnpm install axios --filter @xxx/monorepo1
+// 运行某个package的命令
+pnpm build --filter @xx/monorepo1
+// 模块之间的相互依赖
+pnpm install @xx/monorepo2 -r -filter @xx/monorepo1 
 ```
