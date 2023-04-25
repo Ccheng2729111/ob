@@ -25,32 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nacos.md",
+                "file": "tel/ni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ba6723114d4500d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pnpm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "d5cfd9e05cb95e34",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "718f5cdc0a70b392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript utility types.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nacos.md",
+                "file": "pnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nacos.md"
+                "file": "pnpm.md"
               }
             }
           },
@@ -149,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nacos.md",
+                "file": "pnpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +173,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "386f46a65afa1c40",
+  "active": "8ba6723114d4500d",
   "lastOpenFiles": [
+    "tel/ni.md",
+    "pnpm.md",
+    "nacos.md",
     "hypo/2 NEW killer features coming to TypeScript.md",
     "hypo/How to Fetch API Data in React Like a Pro.md",
     "hypo/TypeScript with Options API  Vue.js.md",
@@ -190,14 +187,12 @@
     "typescript重学.md",
     "typescript teach talk.md",
     "hypo/Utility Types · TypeScript.md",
-    "nacos.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
     "tel/typescript 练习.md",
     "tel/preBuild脚本.md",
     "tel/process.md",
     "tel/chrome插件开发.md",
     "tel/node中流的概念.md",
-    "tel/ni.md",
     "tel/yarn.md",
     "tel/createReadStream.md",
     "tel/class-validator.md",
@@ -210,7 +205,6 @@
     "tel/react.md",
     "tel/nestjs.md",
     "tel/npx yarn pnpm npx的区别.md",
-    "tel/v-if v-show.md",
     "hypo",
     "未命名.canvas",
     "tel",
