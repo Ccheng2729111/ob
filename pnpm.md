@@ -26,9 +26,11 @@ pnpm install react - w
 // 安装全局的公共开发依赖
 pnpm install rollup -wD
 // 给某个package单独安装指定依赖
-pnpm install axios --filter @xxx/monorepo1
+pnpm --filter "@babel/core" test  
+pnpm --filter "@babel/*" test  
+pnpm --filter "*core" test
 // 运行某个package的命令
-pnpm --filter @xx/monorepo1 build
+pnpm --filter <package_selector> <command>
 // 模块之间的相互依赖
 pnpm install @xx/monorepo2 -r -filter @xx/monorepo1 
 ```
