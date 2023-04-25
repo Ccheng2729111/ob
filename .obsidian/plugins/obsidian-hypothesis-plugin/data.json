@@ -8,8 +8,8 @@
   "autoSyncInterval": 2,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 9,
-    "totalHighlights": 30
+    "totalArticles": 10,
+    "totalHighlights": 31
   },
   "groups": [
     {
@@ -28,5 +28,5 @@
     }
   ],
   "useDomainFolders": false,
-  "lastSyncDate": "2023-04-25T07:26:31.072Z"
+  "lastSyncDate": "2023-04-25T07:37:32.597Z"
 }

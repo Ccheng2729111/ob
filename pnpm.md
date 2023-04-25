@@ -28,7 +28,7 @@ pnpm install rollup -wD
 // 给某个package单独安装指定依赖
 pnpm install axios --filter @xxx/monorepo1
 // 运行某个package的命令
-pnpm build --filter @xx/monorepo1
+pnpm --filter @xx/monorepo1 build
 // 模块之间的相互依赖
 pnpm install @xx/monorepo2 -r -filter @xx/monorepo1 
 ```
