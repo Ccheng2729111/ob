@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pnpm.md",
+                "file": "typescript重学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90e2fd62ee4074ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "package.json.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pnpm.md",
+                "file": "package.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pnpm.md"
+                "file": "package.json.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pnpm.md",
+                "file": "package.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,13 +185,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "8ba6723114d4500d",
+  "active": "90e2fd62ee4074ae",
   "lastOpenFiles": [
+    "typescript重学.md",
+    "package.json.md",
+    "pnpm.md",
     "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
     "hypo/Filtering  pnpm.md",
     "hypo/Motivation  pnpm.md",
     "tel/ni.md",
-    "pnpm.md",
     "nacos.md",
     "hypo/2 NEW killer features coming to TypeScript.md",
     "hypo/How to Fetch API Data in React Like a Pro.md",
@@ -187,7 +201,6 @@
     "hypo/Creating a Vue Application  Vue.js.md",
     "hypo/10 TypeScript Pro tipspatterns with (or without) React.md",
     "typescript utility types.md",
-    "typescript重学.md",
     "typescript teach talk.md",
     "hypo/Utility Types · TypeScript.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
@@ -200,7 +213,6 @@
     "tel/createReadStream.md",
     "tel/class-validator.md",
     "tel/类型别名和接口的区别.md",
-    "tel/对应hooks的思考.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
