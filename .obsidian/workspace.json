@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "package.json.md",
+                "file": "typescript重学.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package.json.md",
+                "file": "typescript重学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package.json.md"
+                "file": "typescript重学.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package.json.md",
+                "file": "typescript重学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,10 @@
   },
   "active": "90e2fd62ee4074ae",
   "lastOpenFiles": [
-    "typescript重学.md",
+    "typescript utility types.md",
     "package.json.md",
+    "hypo/🔥 Mastering TypeScript 20 Best Practices for Improved Code Quality.md",
+    "typescript重学.md",
     "pnpm.md",
     "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
     "hypo/Filtering  pnpm.md",
@@ -200,7 +202,6 @@
     "hypo/TypeScript with Options API  Vue.js.md",
     "hypo/Creating a Vue Application  Vue.js.md",
     "hypo/10 TypeScript Pro tipspatterns with (or without) React.md",
-    "typescript utility types.md",
     "typescript teach talk.md",
     "hypo/Utility Types · TypeScript.md",
     "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
@@ -212,7 +213,6 @@
     "tel/yarn.md",
     "tel/createReadStream.md",
     "tel/class-validator.md",
-    "tel/类型别名和接口的区别.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
