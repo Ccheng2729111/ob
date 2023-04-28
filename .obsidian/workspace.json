@@ -187,6 +187,7 @@
   },
   "active": "90e2fd62ee4074ae",
   "lastOpenFiles": [
+    "hypo/A Quick Guide to TypeScript 5.0 Decorators.md",
     "hypo/Typescript 5.0 Released A Quick Overview.md",
     "typescript utility types.md",
     "package.json.md",
@@ -212,7 +213,6 @@
     "tel/chrome插件开发.md",
     "tel/node中流的概念.md",
     "tel/yarn.md",
-    "tel/createReadStream.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
