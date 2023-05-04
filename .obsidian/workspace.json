@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pnpm.md",
+                "file": "package.json.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pnpm.md",
+                "file": "package.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pnpm.md"
+                "file": "package.json.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pnpm.md",
+                "file": "package.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +163,7 @@
   },
   "active": "e428b72f62bdbeaa",
   "lastOpenFiles": [
+    "pnpm.md",
     "tsconfig配置项.md",
     "typescript重学.md",
     "hypo/A Quick Guide to TypeScript 5.0 Decorators.md",
@@ -170,7 +171,6 @@
     "typescript utility types.md",
     "package.json.md",
     "hypo/🔥 Mastering TypeScript 20 Best Practices for Improved Code Quality.md",
-    "pnpm.md",
     "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
     "hypo/Filtering  pnpm.md",
     "hypo/Motivation  pnpm.md",
