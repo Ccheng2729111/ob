@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc61d6b6b8825a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/preBuild脚本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386f46a65afa1c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tel/ni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba6723114d4500d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript重学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90e2fd62ee4074ae",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e428b72f62bdbeaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tsconfig配置项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript重学.md",
+                "file": "tsconfig配置项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript重学.md"
+                "file": "tsconfig配置项.md"
               }
             }
           },
@@ -155,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript重学.md",
+                "file": "tsconfig配置项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +161,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "90e2fd62ee4074ae",
+  "active": "e428b72f62bdbeaa",
   "lastOpenFiles": [
+    "typescript重学.md",
+    "tsconfig配置项.md",
     "hypo/A Quick Guide to TypeScript 5.0 Decorators.md",
     "hypo/Typescript 5.0 Released A Quick Overview.md",
     "typescript utility types.md",
     "package.json.md",
     "hypo/🔥 Mastering TypeScript 20 Best Practices for Improved Code Quality.md",
-    "typescript重学.md",
     "pnpm.md",
     "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
     "hypo/Filtering  pnpm.md",
@@ -212,7 +189,6 @@
     "tel/process.md",
     "tel/chrome插件开发.md",
     "tel/node中流的概念.md",
-    "tel/yarn.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
