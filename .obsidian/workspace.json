@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tsconfig配置项.md",
+                "file": "pnpm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tsconfig配置项.md",
+                "file": "pnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tsconfig配置项.md"
+                "file": "pnpm.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tsconfig配置项.md",
+                "file": "pnpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +163,8 @@
   },
   "active": "e428b72f62bdbeaa",
   "lastOpenFiles": [
-    "typescript重学.md",
     "tsconfig配置项.md",
+    "typescript重学.md",
     "hypo/A Quick Guide to TypeScript 5.0 Decorators.md",
     "hypo/Typescript 5.0 Released A Quick Overview.md",
     "typescript utility types.md",
