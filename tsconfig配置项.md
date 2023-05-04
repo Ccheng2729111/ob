@@ -42,3 +42,8 @@ json复制代码
 具体内容可以参考 TypeScript 官网文档：[在 tsconfig 中使用 extends](https://www.typescriptlang.org/tsconfig#extends)。
 
 总之，以上列出的是几个常见的`tsconfig.json`的配置选项。如果您要按照具体项目的需求进行更改或添加，请确保先阅读相关官方文档，以确保代码的质量和稳定性。
+
+
+### 生成d.ts的几种途径。
+一般都是用ts的配置`declaration`来自动生成每个ts文件的`d.ts`文件，但是要注意的是配置中的`emitDeclarationOnly`需要关闭，让tsc只去做类型文件的声明和ts的类型检查操作，如果需要集中在同一个目录下需要设置`declarationDir`目录，这样每次tsc的时候会打包`d.ts`到指定的文件夹下面。
+还有一种方式是使用三方包，他会集中
