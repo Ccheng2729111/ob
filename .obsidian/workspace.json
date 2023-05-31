@@ -25,19 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "package.json.md",
+                "file": "typescript重学.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa245210bbeb2988",
+            "id": "c3f697d5e8b38df3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "rn实际项目开发查的问题.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package.json.md",
+                "file": "rn实际项目开发查的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package.json.md"
+                "file": "rn实际项目开发查的问题.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package.json.md",
+                "file": "rn实际项目开发查的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,34 +181,34 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "aa245210bbeb2988",
+  "active": "c3f697d5e8b38df3",
   "lastOpenFiles": [
-    "pnpm.md",
-    "tsconfig配置项.md",
     "typescript重学.md",
-    "hypo/A Quick Guide to TypeScript 5.0 Decorators.md",
-    "hypo/Typescript 5.0 Released A Quick Overview.md",
+    "rn实际项目开发查的问题.md",
     "typescript utility types.md",
-    "package.json.md",
-    "hypo/🔥 Mastering TypeScript 20 Best Practices for Improved Code Quality.md",
-    "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
-    "hypo/Filtering  pnpm.md",
-    "hypo/Motivation  pnpm.md",
-    "tel/ni.md",
-    "nacos.md",
-    "hypo/2 NEW killer features coming to TypeScript.md",
-    "hypo/How to Fetch API Data in React Like a Pro.md",
-    "hypo/TypeScript with Options API  Vue.js.md",
-    "hypo/Creating a Vue Application  Vue.js.md",
-    "hypo/10 TypeScript Pro tipspatterns with (or without) React.md",
     "typescript teach talk.md",
-    "hypo/Utility Types · TypeScript.md",
-    "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
-    "tel/typescript 练习.md",
-    "tel/preBuild脚本.md",
+    "tsconfig配置项.md",
+    "pnpm.md",
+    "package.json.md",
+    "nacos.md",
+    "tel/react-native.md",
     "tel/process.md",
+    "tel/preBuild脚本.md",
+    "tel/对应hooks的思考.md",
+    "tel/类型别名和接口的区别.md",
     "tel/chrome插件开发.md",
-    "tel/node中流的概念.md",
+    "tel/class-validator.md",
+    "tel/createReadStream.md",
+    "hypo/Creating a Vue Application  Vue.js.md",
+    "hypo/Filtering  pnpm.md",
+    "hypo/How to Fetch API Data in React Like a Pro.md",
+    "hypo/Motivation  pnpm.md",
+    "hypo/pnpms strictness helps to avoid silly bugs by @ZoltanKochan.md",
+    "hypo/process对象 -- JavaScript 标准参考教程（alpha）.md",
+    "hypo/Typescript 5.0 Released A Quick Overview.md",
+    "hypo/TypeScript with Options API  Vue.js.md",
+    "hypo/Utility Types · TypeScript.md",
+    "hypo/🔥 Mastering TypeScript 20 Best Practices for Improved Code Quality.md",
     "Pics/Pasted image 20230421142729.png",
     "Pasted image 20230421142527.png",
     "Pics",
