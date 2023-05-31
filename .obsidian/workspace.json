@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa245210bbeb2988",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "20ece764384e13b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -161,7 +179,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "e428b72f62bdbeaa",
+  "active": "aa245210bbeb2988",
   "lastOpenFiles": [
     "pnpm.md",
     "tsconfig配置项.md",
