@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89c711312651b207",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c3f697d5e8b38df3",
+  "active": "89c711312651b207",
   "lastOpenFiles": [
     "typescript重学.md",
     "rn实际项目开发查的问题.md",
